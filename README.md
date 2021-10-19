@@ -1,3 +1,3 @@
 # Portfolio
 
-![alt text](https://www.github.com/M-Santosh/Portfolio/Screenshots/1.png)
+![](https://github.com/M-Santosh/Portfolio/blob/main/Screenshots/1.png)
